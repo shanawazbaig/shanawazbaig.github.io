@@ -11,6 +11,9 @@ function App() {
           <div className="flex justify-center mb-6">
             <Palette className="h-16 w-16 text-purple-600 dark:text-purple-400" />
           </div>
+          <p className="text-lg text-gray-600 dark:text-gray-300 mb-4 font-medium">
+            Hi there! 👋
+          </p>
           <h1 className="text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-pink-600 mb-6">
             Unlock Your Creative Potential
           </h1>
